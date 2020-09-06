@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Угадай Слово</string>
+    <string name="skip">Пропустить</string>
+    <string name="play_again">Играть заново</string>
+    <string name="you_scored">Вы заработали</string>
+    <string name="title_text">угадать слово!</string>
+    <string name="play_button">Играть</string>
+    <string name="get_ready">Приготовьтесь</string>
+    <string name="got_it">Угадал</string>
+    <string name="word_is">Слово…</string>
+    <string name="quote_format">\"%s\"</string>
+    <string name="score_format">Текущий счёт: %d</string>
+    <string-array name="word_list">
+        <item>королева</item>
+        <item>больница</item>
+        <item>баскетболл</item>
+        <item>кот</item>
+        <item>изменение</item>
+        <item>улитка</item>
+        <item>суп</item>
+        <item>календарь</item>
+        <item>грусть</item>
+        <item>письменный стол</item>
+        <item>гитара</item>
+        <item>дом</item>
+        <item>рельсы</item>
+        <item>зебра</item>
+        <item>желе</item>
+        <item>машина</item>
+        <item>ворона</item>
+        <item>торговля</item>
+        <item>жук</item>
+        <item>рулон</item>
+        <item>пузырь</item>
+    </string-array>
+</resources>

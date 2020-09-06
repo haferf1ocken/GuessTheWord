@@ -104,7 +104,9 @@ class GameViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     fun onSkip() {
-        _score.value = (score.value)?.minus(1)
+        if ((_score.value)!! > 0) {
+            _score.value = (score.value)?.minus(1)
+        }
         nextWord()
     }
 
