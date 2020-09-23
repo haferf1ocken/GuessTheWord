@@ -6,4 +6,4 @@
 
 ## Screenshots
 
-![Screenshot 0](screenshots/screen0.jpg) ![Screenshot 1](screenshots/screen1.jpg) ![Screenshot 2](screenshots/screen2.jpg)
+![Screenshot 0](screenshots/screen_0.jpg) ![Screenshot 1](screenshots/screen_1.jpg) ![Screenshot 2](screenshots/screen_2.jpg)
